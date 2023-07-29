@@ -1,2 +1,3 @@
 # Solar-Putty-Decryptor
-A python based script that decrypts Solar-PuTTY session files
+A program that decrypts Solar-PuTTY session files that saves credentials for the hosts.
+
